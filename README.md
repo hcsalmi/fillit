@@ -1,6 +1,6 @@
 Fillit
 
-A Hive Helsinki project I did together with my fellow student jjamsa.
+A Hive Helsinki project I did together with my fellow student jjamsa (github: JoonasJaemsae).
 
 The Goal:
 Fillit is a project that presents a recurring
