@@ -9,3 +9,6 @@ A Tetriminos is a 4-block geometric shape used in the game Tetris.
 
 
 As a parameter, the program will take a file which contains a list of Tetriminos. The program arranges them so that they create the smallest square possible using all the blocks. The main goal is to find the smallest square in the minimal amount of time, despite an exponentially growing number of possibilities each time a piece is added.
+
+
+The repository files include a Makefile, all necessary source files, as well as maps for testing purposes (both valid and invalid ones).
